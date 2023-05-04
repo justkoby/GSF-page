@@ -1,7 +1,9 @@
 @import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+                
 
 body {
-    font-family: 'Satoshi', 'Gilroy-Bold', sans-serif;;
+    font-family: 'Satoshi', 'Gilroy-Bold', sans-serif;
 }
 
 .nav-new {
@@ -254,12 +256,12 @@ font-size: 40px;
         padding-left: 60px;
         padding-top: 0px;
         font-size: 15px;
-        font-family: satoshi;
+        font-family: 'satoshi';
         color: white;
     }
 
     .input-new {
-        font-family: 'Gilroy-Bold', sans-serif;
+        font-family: 'satoshi', 'Gilroy-Bold', sans-serif;
         /*background-color: #604D8D;
         color: white;*/
     }
@@ -279,7 +281,7 @@ font-size: 40px;
         margin-top: 30px;
         padding-left: 50px;
         color: white;
-        font-family: satoshi;
+        font-family: 'satoshi';
     }
     
     
@@ -485,7 +487,7 @@ font-size: 40px;
     .join-text {
         color: #51585e;
         font-style: normal;
-        font-family: satoshi;
+        font-family: 'satoshi';
         width: 700px;
         margin-bottom: 50px;
     }
@@ -513,7 +515,7 @@ font-size: 40px;
     }
 
     .carousel-btn {
-        font-family: satoshi;
+        font-family: 'satoshi';
         background-color: transparent;
         color: white;
         border: 1px solid white;
@@ -524,7 +526,7 @@ font-size: 40px;
     }
 
     .carousel-btn:hover {
-        font-family: satoshi;
+        font-family: 'satoshi';
         background-color: white;
         color: #0b3558;
         font-size: 20px;
