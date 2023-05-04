@@ -259,8 +259,9 @@ font-size: 40px;
     }
 
     .input-new {
-        margin-left: 26px;
         font-family: 'Gilroy-Bold', sans-serif;
+        /*background-color: #604D8D;
+        color: white;*/
     }
 
     .fot-link {
@@ -535,7 +536,20 @@ font-size: 40px;
         width: fit-content;
     }
 
+.nav-text {
+    margin-left: 15px;
+}
 
+
+.card-for-ref {
+    width: 416px;
+    height: 560px;
+}
+
+.card-for-hrd {
+    width: 416px;
+    height: 640px;
+}
 
 
 
